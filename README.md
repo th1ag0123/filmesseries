@@ -1,5 +1,5 @@
 # turmac
 PENSAMENTO COMPUTACIONAL 1mc
-basico
+sim estou aprendendo
 estamos aprendendo
 voleibol
