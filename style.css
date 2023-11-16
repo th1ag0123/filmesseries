@@ -1,7 +1,6 @@
 body {
 	background-color: rgb(238, 10, 10);
-	<img id="banner"src="c:\Users\cristiano\Pictures\filmesseries.png">
-}
+	
 .menu ul {
 	list-style-type: none;
 	margin: 0;
@@ -68,3 +67,6 @@ body {
 	box-shadow: 0 0 10px 10px #66ffff;
 	
 }
+〔 
+   <img id="banner"src="c:\Users\cristiano\Pictures\filmesseries.png">
+〕
