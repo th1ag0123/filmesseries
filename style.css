@@ -1,13 +1,7 @@
 body {
 	/* styles.css */
 body {
-    margin: 0; /* Remove margens padrão */
-    padding: 0; /* Remove padding padrão */
-    height: 100vh; /* Define altura para cobrir a tela inteira */
-    background-image: url('.jpg'filmesseries.png);
-    background-size: cover; /* Cobre todo o fundo da tela */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-image: url('filmesseries.png')
 }
 	background-color: rgb(238, 10, 10);
 .menu ul {
