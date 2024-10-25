@@ -66,6 +66,7 @@ body {
 .c3 img {
 	width: 400px;
 	border-radius: 50%
+	object-fit:cover;
 }	
 
 .c3 img:hover{
