@@ -8,7 +8,38 @@ body {
     background-position: center;
     background-repeat: no-repeat; /* Evita repetições da imagem */
 }
-	
+.container {
+	width: 100%;
+	padding: 0 20px;
+  }
+  @media (max-width: 768px) {
+	.container {
+	  padding: 0 10px;
+	}
+	h1 {
+	  font-size: 24px;
+	}
+  }
+  img {
+	max-width: 100%;
+	height: auto;
+  }	 
+.menu {
+/* Define a cor das letras */
+body {
+	color: #3498db; /* Azul */
+  }
+  
+  /* Exemplos para títulos e parágrafos */
+  h1 {
+	color: #ff0202; /* Vermelho */
+  }
+  
+  p {
+	color: #e7eee9; /* Verde */
+  }
+  
+}
 .menu ul {
 	list-style-type: none;
 	margin: 0;
@@ -57,13 +88,6 @@ body {
 	display: block
 }
 
-
-.c1{
-	background: #cf0505;
-	color: #060700;
-	width: 50% ;
-	float: left;
-}
 
 .c3 img {
 	width: 400px;
